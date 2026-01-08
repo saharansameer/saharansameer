@@ -6,7 +6,7 @@
 
 #### `Skills:`
 
-![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,nodejs,express,mongodb,postgres,redis,git,postman,go,python,docker,aws&perline=6) <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharansameer&layout=compact&theme=dark)
+![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,nodejs,express,mongodb,postgres,redis,git,postman,go,python,docker,aws&perline=6)
 
 #### `Contact:`
 
