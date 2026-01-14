@@ -1,6 +1,6 @@
 #### `About:`
 - **Software Developer**
-- Primarily focused on **backend development** and **system design**.
+- Specializing in **backend** development with **full-stack** capability.
 - Experienced in **building** and **deploying** full-stack web apps.
 - Hands-on with **AI** integrations and **Agentic AI** workflows.
 
