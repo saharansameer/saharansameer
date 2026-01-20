@@ -1,4 +1,5 @@
 #### `About:`
+
 - **Software Developer**
 - Specializing in **backend** development with **full-stack** capability.
 - Experienced in **building** and **deploying** full-stack web apps.
@@ -6,9 +7,8 @@
 
 #### `Skills:`
 
-![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,nodejs,express,mongodb,postgres,redis,git,postman,go,python,docker,aws&perline=6)
+![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,nodejs,express,mongodb,postgres,redis,git,postman,go,python,docker,aws&perline=8)
 
-#### `Contact:`
+#### `Stats:`
 
-[![image](https://img.shields.io/badge/X/Twitter-@sameersaharanx-blue)](https://twitter.com/sameersaharanx) <span>&nbsp;&nbsp;&nbsp;</span>
-[![image](https://img.shields.io/badge/Mail-hello@sameersaharan.com-red)](mailto:hello@sameersaharan.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saharansameer&layout=compact&theme=dark)
