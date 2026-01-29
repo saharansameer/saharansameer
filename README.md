@@ -7,7 +7,7 @@
 
 #### `Skills:`
 
-![Skills](https://skillicons.dev/icons?i=javascript,typescript,react,next,tailwind,nodejs,express,mongodb,postgres,redis,git,postman,go,python,docker,aws&perline=8)
+![Skills](https://skillicons.dev/icons?i=javascript,typescript,go,next,react,tailwind,nodejs,express,mongodb,postgres,redis,python,git,postman,docker,aws&perline=8)
 
 #### `Stats:`
 
