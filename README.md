@@ -2,7 +2,7 @@
 
 - **Software Developer**
 - Specializing in **backend** development with **full-stack** capability.
-- Experienced in **building** and **deploying** full-stack web apps.
+- Experienced in **building** and deploying **production-ready** web applications.
 - Hands-on with **AI** integrations and **Agentic AI** workflows.
 
 #### `Skills:`
